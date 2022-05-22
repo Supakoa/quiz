@@ -1,0 +1,16 @@
+{
+  "name": "test-ttb",
+  "version": "1.0.0",
+  "description": "TTB - TEST",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
+  }
+}
